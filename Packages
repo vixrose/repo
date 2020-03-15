@@ -7,7 +7,7 @@ Maintainer: Vix Rose <vixrose0@gmail.com>
 Author: Vix Rose <vixrose0@gmail.com>
 Section: Tweak
 Depends: mobilesubstrate
-Filename: .//debs/com.vixrose.lbvib_0.0.2-1+debug_iphoneos-arm.deb
+Filename: debs//com.vixrose.lbvib_0.0.2-1+debug_iphoneos-arm.deb
 Size: 4092
 MD5sum: c248c0b4e67fab4207f9ec6b45870890
 SHA1: f75e42b131753b7c6302764cf92afffbeb6c924b
