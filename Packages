@@ -1,15 +1,15 @@
 Package: com.vixrose.lbvib
 Name: LBVib
-Version: 0.0.2-1+debug
+Version: 0.0.3
 Architecture: iphoneos-arm
 Description: Vibrate on low battery.
 Maintainer: Vix Rose <vixrose0@gmail.com>
 Author: Vix Rose <vixrose0@gmail.com>
 Section: Tweak
 Depends: mobilesubstrate
-Filename: debs//com.vixrose.lbvib_0.0.2-1+debug_iphoneos-arm.deb
-Size: 4092
+Filename: debs//com.vixrose.lbvib_0.0.3_iphoneos-arm.deb
+Size: 3406
 Installed-Size: 136
-MD5sum: c248c0b4e67fab4207f9ec6b45870890
-SHA1: f75e42b131753b7c6302764cf92afffbeb6c924b
-SHA256: 046e17c826af12f79ce23117c7d02f2d8f0b58e06bf9996d35c63b5ed1e386cc
+MD5sum: 71f6e47a0689cbbf51e3177522a84430
+SHA1: 2a02a642f778c23513aebf538096e8838c85e6c1
+SHA256: 3f745047d73b99c662a69b33661f0d90cd6e5a9811af95e9b5feceff67c3de4a
